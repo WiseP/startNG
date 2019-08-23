@@ -1,0 +1,7 @@
+LESSONS FROM MY HTML STUDY.
+
+If you use div, to group elements, in the body, you probably have to use 
+div for most of all the elemeents in that group(or body) because to leave some
+elements ungroup. while you grouped some others, it may scatter your code and leave
+you stranded, example, was when i was trying to center my image and linkedin link icon
+to the center of the page.
